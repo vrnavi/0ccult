@@ -1,3 +1,29 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://0ccu.lt/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '0ccu.lt'
+theme = "lynx"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+copyright = "greetings from [re:n.avi](https://ren.0ccu.lt) and the inner circle."
+description = "The occult is the home of the 0ccult."
+
+[author]
+  name = "0ccu.lt"
+  headline = "The occult is the home of the `0c`cult."
+  image = "sigil.png"
+  links = [
+    { link = { href = "https://ren.0ccu.lt", text = "Ren's Self", icon = "link" } },
+  ]
+
+[params]
+  attribution = false
+  description = "The occult is the home of the 0ccult."
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
