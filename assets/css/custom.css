@@ -10,24 +10,37 @@
 
 .link-self {
   background-color: #009900;
-  fill: #FFFFFF;
 }
 
 .link-work {
   background-color: #009900;
-  fill: #FFFFFF;
 }
 
 .link-home {
   background-color: #009900;
-  fill: #FFFFFF;
+}
+
+.link-hashtag {
+  background-color: #009900;
+}
+
+.link-invite {
+  background-color: #009900;
+}
+
+.link-dishwasher {
+  background-color: #9CD8DF !important;
 }
 
 .link {
     --tw-bg-opacity: 1;
-    background-color: rgb(0 127 0/var(--tw-bg-opacity));
     --tw-text-opacity: 1;
-    color: rgb(255 255 255/var(--tw-text-opacity))
+    color: rgb(255 255 255/var(--tw-text-opacity));
+    fill: #FFFFFF;
+}
+
+.align-text-middle {
+    vertical-align: -10%;
 }
 
 @media (prefers-color-scheme: dark) {
