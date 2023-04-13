@@ -1,5 +1,6 @@
 ---
 title: Dishwasher
+description: An overview of the Dishwasher Discord bot.
 image: /dishwasher.png
 ---
 

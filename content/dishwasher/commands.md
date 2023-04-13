@@ -1,5 +1,6 @@
 ---
 title: Commands
+description: The commands for the Dishwasher Discord bot.
 image: /dishwasher.png
 ---
 
