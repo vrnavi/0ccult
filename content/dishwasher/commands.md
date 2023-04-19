@@ -93,9 +93,6 @@ You can get the index from the `reminders` command.
 
 ### Server Specific
 
-`journalcount`<br>
-Shows the current member with Strange Journal count.
-
 `mylogs`<br>
 Lists actions taken on you by Staff.
 
