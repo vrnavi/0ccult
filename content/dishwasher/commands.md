@@ -81,8 +81,8 @@ Shows the timezone for you, or someone else.
 ### Reminders
 
 `remind` [time] [text]<br>
-Reminds you about something in Direct messages.<br>
-Use "number thsen unit" format, such as *5s*, which is the minimum.
+Reminds you about something in Direct Messages.<br>
+Use "number then unit" format, such as *5s*, which is the minimum.
 
 `reminders`<br>
 Lists your reminders.
