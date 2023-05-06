@@ -36,6 +36,12 @@ Gives you a hug.
 `info` [user (yourself)]<br>
 Gets information on a user.
 
+`info` "server" [server (current)<br>
+Gets information on a server.
+
+`info` "role" [role ID or name (`@everyone`)]
+Gets information on a role.
+
 `install`<br>
 Gives you instructions on how to install a dishwasher.
 
@@ -47,6 +53,9 @@ Shows the current member count of the server.
 
 `ping`<br>
 Shows the bot's latency.
+
+`poll` [title] [option1] {option2, option3... max 10 options}
+Creates a poll, with reaction based voting.
 
 `server`<br>
 Gives you a link to the bot's home server.
