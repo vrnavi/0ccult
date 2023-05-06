@@ -48,6 +48,9 @@ Shows the current member count of the server.
 `ping`<br>
 Shows the bot's latency.
 
+`server`<br>
+Gives you a link to the bot's home server.
+
 `youtube`/`yt` [search term]<br>
 Searches youtube for a query.
 
@@ -58,6 +61,14 @@ Converts Base16 to Base10.
 
 `hex` [number]<br>
 Converts Base10 to Base16.
+
+### Join*
+
+`joinscore` {joinscore or mention}<br>
+Posts your (or someone else's) joinscore for the current server.
+
+`joingraph`<br>
+Posts a graph of times people have joined.
 
 ### Prefixes
 
@@ -142,6 +153,20 @@ Tosses a target, replacing all of their roles with one role.
 
 `untoss` [target]<br>
 Untosses a target, restoring their roles.
+
+### Surveyr
+
+`survey`/`s`<br>
+Posts the 5 recent surveys.
+
+`reason`/`r` [case ID or "l"]{-case ID for "l"} [reason]<br>
+Records a reason for a survey.
+
+`censor`/`c` [case ID or "l"]{-case ID for "l"}<br>
+Censors a survey's name.
+
+`dump`/`d` [case ID or "l"]{-case ID for "l"}<br>
+Dumps user IDs for surveys.
 
 ### Lockdown
 
