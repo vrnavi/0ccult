@@ -28,6 +28,12 @@
   background-color: #009900;
 }
 
+.link-nocdn {
+  background-color: #fff !important;
+  color: #000 !important;
+  fill: #000 !important;
+}
+
 .link-dishwasher {
   background-color: #9CD8DF !important;
 }
