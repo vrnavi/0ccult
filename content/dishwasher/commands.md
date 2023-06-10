@@ -21,9 +21,6 @@ Returns an avatar of a user.
 `color` [hex color code]<br>
 Shows an image of the color you specify.
 
-`cotd`<br>
-Displays the current Color of The Day.
-
 `hello`<br>
 Says hello to you.
 
@@ -36,10 +33,10 @@ Gives you a hug.
 `info` [user (yourself)]<br>
 Gets information on a user.
 
-`info` "server" [server (current)<br>
+`info server` [server (current)<br>
 Gets information on a server.
 
-`info` "role" [role ID or name (`@everyone`)]
+`info role` [role ID or name (`@everyone`)]
 Gets information on a role.
 
 `install`<br>
@@ -54,14 +51,28 @@ Shows the current member count of the server.
 `ping`<br>
 Shows the bot's latency.
 
-`poll` [title] [option1] {option2, option3... max 10 options}
+`poll` [title] [option1] {option2, option3... max 10 options}<br>
 Creates a poll, with reaction based voting.
+
+`progressbar`/`loadingbar`<br>
+Shows a progress bar of how much the year has passed.
 
 `server`<br>
 Gives you a link to the bot's home server.
 
 `youtube`/`yt` [search term]<br>
 Searches youtube for a query.
+
+### CoTD
+
+`cotd`<br>
+Displays the current Color of The Day.
+
+`voteskip`<br>
+Votes to skip the current Color of The Day by moving the roll time an hour earlier.
+
+`reroll`<br>
+Forcibly rerolls the current Color of The Day.
 
 ### Conversion
 
@@ -79,6 +90,15 @@ Posts your (or someone else's) joinscore for the current server.
 `joingraph`<br>
 Posts a graph of times people have joined.
 
+### Messagescan
+
+- Paste a Discord message link for Dishwasher to quote said message.
+- Post a Twitter post link for Dishwasher to send a vxtwitter.com link in its stead.
+- React to a message with a flag to use DeepL to translate it.
+
+`usage`<br>
+Shows how much of the current DeepL pool is used.
+
 ### Prefixes
 
 `prefixes`<br>
@@ -89,14 +109,6 @@ Adds a new prefix.
 
 `prefixes remove` [number]<br>
 Removes a prefix.
-
-### Timezone
-
-`timezone`/`tz` [timezone]<br>
-Sets your timezone. You can use [this list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) as a reference.
-
-`timefor`/`tf` [user]<br>
-Shows the timezone for you, or someone else.
 
 ### Reminders
 
@@ -110,6 +122,22 @@ Lists your reminders.
 `reminders remove` [index]<br>
 Removes a reminder.<br>
 You can get the index from the `reminders` command.
+
+### Timezone
+
+`timezone`/`tz` [timezone]<br>
+Sets your timezone. You can use [this list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) as a reference.
+
+`timefor`/`tf` [user] {time in "12AM", "12 AM", "12:00 AM", or "00:00"}<br>
+Shows the timezone for you, or someone else.
+
+### Server Configs
+
+`configs`<br>
+Views the current configuration for a server.
+
+`configs set` [category] [setting] [value]<br>
+Sets the current configuration for a server.
 
 ### Server Specific
 
