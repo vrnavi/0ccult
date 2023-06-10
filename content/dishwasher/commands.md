@@ -164,7 +164,7 @@ Kicks a user.
 `massban` [targets]<br>
 Bans several users with their IDs without messaging them.
 
-`modtoggle`
+`modtoggle`<br>
 Toggles between your Ex-Staff and Staff role.
 
 `purge` [limit] {channel (current)}<br>
@@ -248,7 +248,7 @@ Sets the current nickname. Send command by itself to reset.
 Sets a users nickname. Send command by itself to reset.
 
 `playing` [game]<br>
-Sets the bot's "currently playing" status. Send command by itself to reset.
+Sets the bot's "currently playing" status. Send command by itself to reset.<br>
 Change lasts until next playing rotation.
 
 `react` [channel] [message id] [emoji]<br>
