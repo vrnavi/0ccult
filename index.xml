@@ -6,7 +6,8 @@ avy [user/&amp;ldquo;server&amp;rdquo; (yourself)]
 Returns an avatar of a user.
 color [hex color code]
 Shows an image of the color you specify.
-cotd
-Displays the current Color of The Day.
-hello</description></item><item><title>Dishwasher</title><link>https://0ccu.lt/dishwasher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://0ccu.lt/dishwasher/</guid><description>Dishwasher is a moderation bot created for the OneShot Discord Server.
+hello
+Says hello to you.
+help
+Gives you a link to this page.</description></item><item><title>Dishwasher</title><link>https://0ccu.lt/dishwasher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://0ccu.lt/dishwasher/</guid><description>Dishwasher is a moderation bot created for the OneShot Discord Server.
 Commands Invite Source</description></item></channel></rss>

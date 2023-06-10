@@ -6,6 +6,7 @@ avy [user/&amp;ldquo;server&amp;rdquo; (yourself)]
 Returns an avatar of a user.
 color [hex color code]
 Shows an image of the color you specify.
-cotd
-Displays the current Color of The Day.
-hello</description></item></channel></rss>
+hello
+Says hello to you.
+help
+Gives you a link to this page.</description></item></channel></rss>
