@@ -57,6 +57,9 @@ Creates a poll, with reaction based voting.
 `progressbar`/`loadingbar`<br>
 Shows a progress bar of how much the year has passed.
 
+`rehost`/`catbox`/`imgur` [attachment or link 200MB or under]<br>
+Uploads files and/or links to **catbox.moe**.
+
 `server`<br>
 Gives you a link to the bot's home server.
 
