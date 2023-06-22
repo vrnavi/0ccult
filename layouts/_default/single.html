@@ -5,7 +5,7 @@
     </nav>
     <header>
 	  {{ if .Params.image }}
-	  <img class="mb-2 rounded-full" style="margin-top: 0rem; margin-left: auto;margin-right: auto;" width="144" height="144" alt="0ccu.lt" src="/dishwasher.png"></img>
+	  <img class="mb-2 rounded-full" style="margin-top: 0rem; margin-left: auto;margin-right: auto;" width="144" height="144" alt="0ccu.lt" src={{ .Params.image }}></img>
       {{ end }}
       <h1 class="mt-2 mb-6 text-4xl font-extrabold text-center text-neutral-800 dark:text-white">
         {{ .Title | emojify }}

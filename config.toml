@@ -17,8 +17,7 @@ description = "The occult is the home of the 0ccult."
     { self = { href = "https://ren.0ccu.lt", text = "Self" }},
     { home = { href = "https://starrypoint.me", text = "Home" } },
     { work = { href = "https://whistler.page", text = "Work" } },
-    { nocdn = { href = "https://nocdn.rip", text = "noCDN" } },
-    { dishwasher = { href = "/dishwasher", text = "Dishwasher", target = "_self" } },
+    { projects = { href = "/projects", text = "Project", target = "_self" } },
   ]
 
 [params]
