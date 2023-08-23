@@ -6,23 +6,24 @@ theme = "lynx"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
-copyright = "greetings from [re:n.avi](https://ren.0ccu.lt) and the inner circle."
-description = "The occult is the home of the 0ccult."
+copyright = "greetings from [renavi](https://ren.0ccu.lt) and the inner circle."
+description = "The 0ccult is the home of the occult."
 
 [author]
   name = "0ccu.lt"
-  headline = "The occult is the home of the `0c`cult."
+  headline = "The `0c`cult is the home of the occult."
   image = "sigil.png"
   links = [
     { self = { href = "https://ren.0ccu.lt", text = "Self" }},
     { home = { href = "https://starrypoint.me", text = "Home" } },
     { work = { href = "https://whistler.page", text = "Work" } },
     { projects = { href = "/projects", text = "Project", target = "_self" } },
+    { socials = { href = "/socials", text = "Social", target = "_self" } },
   ]
 
 [params]
   attribution = false
-  description = "The occult is the home of the 0ccult."
+  description = "The 0ccult is the home of the occult."
 
 [markup.highlight]
   noClasses = false
