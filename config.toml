@@ -25,6 +25,9 @@ description = "The 0ccult is the home of the occult."
   attribution = false
   description = "The 0ccult is the home of the occult."
 
+[params.verification]
+  mastodon = "https://c.im/@navi"
+
 [markup.highlight]
   noClasses = false
 
