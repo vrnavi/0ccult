@@ -42,8 +42,11 @@
   fill: #000 !important;
 }
 
-.link-dishwasher {
-  background-color: #9CD8DF !important;
+.link-sangou {
+  background-color: #9CD8DE !important;
+  color: #1C1D4D !important;
+  fill: #1C1D4D !important;
+
 }
 
 .link {
