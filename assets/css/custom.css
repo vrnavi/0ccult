@@ -9,37 +9,19 @@
 }
 
 .link-self {
-  background-color: #009900;
-}
-
-.link-work {
-  background-color: #009900;
+  background-color: #00008B;
 }
 
 .link-home {
-  background-color: #009900;
-}
-
-.link-hashtag {
-  background-color: #009900;
-}
-
-.link-invite {
-  background-color: #009900;
+  background-color: #006400;
 }
 
 .link-projects {
-  background-color: #800000;
+  background-color: #8B0000;
 }
 
 .link-socials {
-  background-color: #800080;
-}
-
-.link-nocdn {
-  background-color: #fff !important;
-  color: #000 !important;
-  fill: #000 !important;
+  background-color: #8B008B;
 }
 
 .link-sangou {

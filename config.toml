@@ -1,6 +1,6 @@
 baseURL = 'https://0ccu.lt/'
 languageCode = 'en-us'
-title = '0ccu.lt'
+title = 'Home of the 0ccult'
 theme = "lynx"
 
 enableEmoji = true
@@ -16,7 +16,6 @@ description = "The 0ccult is the home of the occult."
   links = [
     { self = { href = "https://ren.0ccu.lt", text = "Self" }},
     { home = { href = "https://starrypoint.me", text = "Home" } },
-    { work = { href = "https://whistler.page", text = "Work" } },
     { projects = { href = "/projects", text = "Project", target = "_self" } },
     { socials = { href = "/socials", text = "Social", target = "_self" } },
   ]
