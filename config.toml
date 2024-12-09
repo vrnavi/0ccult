@@ -15,7 +15,6 @@ description = "The 0ccult is the home of the occult."
   image = "sigil.png"
   links = [
     { self = { href = "https://ren.0ccu.lt", text = "Self" }},
-    { home = { href = "https://starrypoint.me", text = "Home" } },
     { projects = { href = "/projects", text = "Project", target = "_self" } },
     { socials = { href = "/socials", text = "Social", target = "_self" } },
   ]

@@ -13,15 +13,22 @@
 }
 
 .link-home {
-  background-color: #008B00;
+  background-color: #CA97C0;
+  color: #000000 !important;
+  fill: #000000 !important;
+
 }
 
 .link-projects {
-  background-color: #8B0000;
+  background-color: #008B00;
 }
 
 .link-socials {
-  background-color: #8B8B8B;
+  background-color: #8B0000;
+}
+
+.link-bluesky {
+  background-color: #0A7AFF;
 }
 
 .link-whistlersai {
