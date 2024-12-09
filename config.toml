@@ -9,19 +9,19 @@ disableKinds = ["taxonomy", "term"]
 copyright = "greetings from [renavi](https://ren.0ccu.lt) and the inner circle."
 description = "The 0ccult is the home of the occult."
 
-[author]
-  name = "0ccu.lt"
-  headline = "The `0c`cult is the home of the occult."
-  image = "sigil.png"
-  links = [
-    { self = { href = "https://ren.0ccu.lt", text = "Self" }},
-    { projects = { href = "/projects", text = "Project", target = "_self" } },
-    { socials = { href = "/socials", text = "Social", target = "_self" } },
-  ]
-
 [params]
   attribution = false
   description = "The 0ccult is the home of the occult."
+
+  [author]
+    name = "0ccu.lt"
+    headline = "The `0c`cult is the home of the occult."
+    image = "sigil.png"
+    links = [
+      { self = { href = "https://ren.0ccu.lt", text = "Self" }},
+      { projects = { href = "/projects", text = "Project", target = "_self" } },
+      { socials = { href = "/socials", text = "Social", target = "_self" } },
+    ]
 
 [params.verification]
   mastodon = "https://c.im/@navi"
