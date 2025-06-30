@@ -1,3 +1,3 @@
 ---
-description: "The occult is the home of the 0ccult."
+description: "At the center of town stands a tree with signs pointing many which ways..."
 ---

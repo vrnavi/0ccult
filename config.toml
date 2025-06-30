@@ -1,34 +1,30 @@
-baseURL = 'https://0ccu.lt/'
+baseURL = 'https://tree.wintervale.me/'
 languageCode = 'en-us'
-title = 'Home of the 0ccult'
+title = "Wintervale's Tree of Direction"
 theme = "lynx"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
-copyright = "greetings from [renavi](https://ren.0ccu.lt) and the inner circle."
-description = "The 0ccult is the home of the occult."
+copyright = "greetings from [renavi](https://wintervale.me) and the inner circle."
+description = "At the center of town stands a tree with signs pointing many which ways..."
 
 [params]
   attribution = false
-  description = "The 0ccult is the home of the occult."
+  description = "At the center of town stands a tree with signs pointing many which ways..."
 
 [params.author]
-  name = "0ccu.lt"
-  headline = "The `0c`cult is the home of the occult."
+  name = "Wintervale's Tree of Direction"
+  headline = "At the center of town stands a tree with signs pointing many which ways..."
   image = "sigil.png"
   links = [
-    { self = { href = "https://ren.0ccu.lt", text = "Self" }},
+    { self = { href = "https://wintervale.me", text = "Self" }},
     { projects = { href = "/projects", text = "Project", target = "_self" } },
     { socials = { href = "/socials", text = "Social", target = "_self" } },
   ]
 
-[params.verification]
-  mastodon = "https://c.im/@navi"
-
 [markup.highlight]
   noClasses = false
 
-[markup.goldmark]
 [markup.goldmark.renderer]
   unsafe = true
