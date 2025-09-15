@@ -1,12 +1,12 @@
 baseURL = 'https://tree.wintervale.me/'
 languageCode = 'en-us'
-title = "Wintervale's Tree of Direction"
+title = "Wintervale Tree"
 theme = "lynx"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
-copyright = "greetings from [renavi](https://wintervale.me) and the inner circle."
+copyright = "greetings."
 description = "At the center of town stands a tree with signs pointing many which ways..."
 
 [params]
@@ -14,7 +14,7 @@ description = "At the center of town stands a tree with signs pointing many whic
   description = "At the center of town stands a tree with signs pointing many which ways..."
 
 [params.author]
-  name = "Wintervale's Tree of Direction"
+  name = "Wintervale Tree"
   headline = "At the center of town stands a tree with signs pointing many which ways..."
   image = "sigil.png"
   links = [
